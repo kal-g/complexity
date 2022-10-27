@@ -1,0 +1,149 @@
+Hapax legomenon
+From Wikipedia the free encyclopedia
+Jump to navigationJump to search
+Hapax legomena redirects here For the film series see Hapax Legomena
+
+plot for words in the novel About of the distinct set of words in this novel such as matrimonial occur only once and so are hapax legomena red About such as dexterity appear twice dis legomena in blue Zipf's law predicts that the words in this plot should approximate a straight line with slope
+In corpus linguistics a hapax legomenon also or pl hapax legomena sometimes abbreviated to hapax plural hapaxes is a word or an expression that occurs only once within a context either in the written record of an entire language in the works of an author or in a single text The term is sometimes incorrectly used to describe a word that occurs in just one of an author's works but more than once in that particular work Hapax legomenon is a transliteration of Greek meaning being said
+
+The related terms dis legomenon tris legomenon and tetrakis legomenon respectively refer to double triple or quadruple occurrences but are far less commonly used
+
+Hapax legomena are quite common as predicted by Zipf's which states that the frequency of any word in a corpus is inversely proportional to its rank in the frequency table For large corpora about to of the words are hapax legomena and another to are dis Thus in the Brown Corpus of American English about half of the distinct words are hapax legomena within that
+
+Hapax legomenon refers to the appearance of a word or an expression in a body of text not to either its origin or its prevalence in speech It thus differs from a nonce word which may never be recorded may find currency and may be widely recorded or may appear several times in the work which coins it and so on
+
+
+Contents
+
+science
+
+examples
+and Japanese characters
+examples
+examples
+Greek examples
+examples
+example
+examples
+examples
+examples
+examples
+popular culture
+also
+
+links
+Significance
+
+
+Hapax legomena in ancient texts are usually difficult to decipher since it is easier to infer meaning from multiple contexts than from just one For example many of the remaining undeciphered Mayan glyphs are hapax legomena and Biblical particularly Hebrew see Hebrew examples hapax legomena sometimes pose problems in translation Hapax legomena also pose challenges in natural language
+
+Some scholars consider Hapax legomena useful in determining the authorship of written works P N Harrison in The Problem of the Pastoral Epistles made hapax legomena popular among Bible scholars when he argued that there are considerably more of them in the three Pastoral Epistles than in other Pauline Epistles He argued that the number of hapax legomena in a putative author's corpus indicates his or her vocabulary and is characteristic of the author as an individual
+
+Harrison's theory has faded in significance due to a number of problems raised by other scholars For example in W P Workman found the following numbers of hapax legomena in each Pauline Epistle
+
+Pauline legomena
+Epistle to the
+First Epistle to the
+Second Epistle to the
+Epistle to the
+Epistle to the
+Epistle to the
+Epistle to the
+First Epistle to the
+Second Epistle to the
+First Epistle to
+Second Epistle to
+Epistle to
+Epistle to
+
+At first glance the last three totals for the Pastoral Epistles are not out of line with the To take account of the varying length of the epistles Workman also calculated the average number of hapax legomena per page of the Greek text which ranged from to as summarized in the diagram on the Although the Pastoral Epistles have more hapax legomena per page Workman found the differences to be moderate in comparison to the variation among other Epistles This was reinforced when Workman looked at several plays by Shakespeare which showed similar variations from to per page of Irving's edition as summarized in the second diagram on the
+
+Apart from author identity there are several other factors that can explain the number of hapax legomena in a
+
+text length this directly affects the expected number and percentage of hapax legomena the brevity of the Pastoral Epistles also makes any statistical analysis problematic
+text topic if the author writes on different subjects of course many words will occur only in limited contexts
+text audience if the author is writing to a peer rather than a student or their spouse rather than their employer again quite different vocabulary will appear
+time over the course of years both the language and an author's knowledge and use of language will change
+In the particular case of the Pastoral Epistles all of these variables are quite different from those in the rest of the Pauline corpus and hapax legomena are no longer widely accepted as strong indicators of authorship although the authorship of the Pastorals is subject to debate on other
+
+There are also subjective questions over whether two forms amount to the same word dog vs dogs clue vs clueless sign vs signature many other gray cases also arise The Jewish Encyclopedia points out that although there are hapaxes in the Hebrew Bible only about are not obviously related to other attested word
+
+It would not be especially difficult for a forger to construct a work with any percentage of hapax legomena desired However it seems unlikely that forgers much before the century would have conceived such a ploy much less thought it worth the
+
+A final difficulty with the use of hapax legomena for authorship determination is that there is considerable variation among works known to be by a single author and disparate authors often show similar values In other words hapax legomena are not a reliable indicator Authorship studies now usually use a wide range of measures to look for patterns rather than relying upon single measurements
+
+Computer science
+In the fields of computational linguistics and natural language processing NLP esp corpus linguistics and NLP it is common to disregard hapax legomena and sometimes other infrequent words as they are likely to have little value for computational techniques This disregard has the added benefit of significantly reducing the memory use of an application since by Zipf's law many words are hapax
+
+Examples
+The following are some examples of hapax legomena in languages or corpora
+
+Arabic examples
+In the
+
+The proper nouns Iram Q Iram of the Pillars Q Babylon Q Bakkah Jibt Q Q Ramadan Q Byzantine Empire Q Q Quraysh Q Q Harut and Marut Q Mecca Nasr Q Q and Q Harut and Marut occur only
+ginger is a hapax Q
+The epitheton ornans the One besought is a hapax Q
+mountain is a hapax Q
+Chinese and Japanese characters
+See also Chinese characters Rare and complex characters
+Classical Chinese and Japanese literature contains many Chinese characters that feature only once in the corpus and their meaning and pronunciation has often been lost Known in Japanese as kogo literally lonely characters these can be considered a type of hapax For example the Classic of Poetry BC uses the character exactly once in the verse and it was only through the discovery of a description by Guo Pu AD that the character could be associated with a specific type of ancient flute
+
+English examples
+
+The word honorificabilitudinitatibus as found in the first edition of William Shakespeare's play Love's Labour's Lost
+Flother as a synonym for snowflake is a hapax legomenon of written English found in a manuscript entitled The XI Pains of Hell circa
+Hebenon a poison referred to in Shakespeare's Hamlet' only once
+Honorificabilitudinitatibus is a hapax legomenon of Shakespeare's works
+Indexy in Bram Stoker's Dracula used as an adjective to describe a situational state with no other further use in the language If that man had been an ordinary lunatic I would have taken my chance of trusting him but he seems so mixed up with the Count in an indexy kind of way that I am afraid of doing anything wrong by helping his
+Manticratic meaning of the rule by the Prophet's family or clan was apparently invented by T E Lawrence and appears once in Seven Pillars of
+Nortelrye a word for education occurs only once in Chaucer
+Sassigassity perhaps with the meaning of audacity occurs only once in Dickens's short story A Christmas Tree
+occurs exactly once in the Old English corpus in the Exeter Book There is debate over whether it means weary with sleep or weary for sleep
+German examples
+
+Muspilli line dar nimac denne mak andremo helfan uora demo muspille Bavarian State Library Clm f
+The name of the poem Muspilli is a from muspille Old High German hapax legomenon of unclear meaning only found in this text see for discussion
+Ancient Greek examples
+According to classical scholar Clyde Pharr the Iliad has hapax legomena while the Odyssey has Others have defined the term differently however and count as few as in the Iliad and in the
+ancient Greek for very untimely is one of many words that occur only once in the
+The Greek New Testament contains local hapax legomena which are sometimes called New Testament of these occur in Peter and occur in
+Epiousios translated into English as in the Lord's Prayer in Matthew and Luke occurs nowhere else in all of the known ancient Greek literature
+The word latrine in the Greek New Testament occurs only twice in Matthew and Mark but since it is widely considered that the writer of the Gospel of Matthew used the Gospel of Mark as a source it may be regarded as a hapax legomenon It was mistakenly translated as bowel until an inscription from the Lex de astynomis Pergamenorum Law of the town clerks of Pergamon confirmed it meant
+Hebrew examples
+The number of distinct hapax legomena in the Hebrew Bible is out of a total of distinct words However due to Hebrew roots suffixes and prefixes only are true hapax A full list can be seen at the Jewish Encyclopedia entry for Hapax
+
+Some examples include
+
+Akut fought only appears once in the Hebrew Bible in Psalm
+Atzei Gopher Gopher wood is mentioned once in the Bible in Genesis in the instruction to make Noah's ark of gopher wood Because of its single appearance its literal meaning is lost Gopher is simply a transliteration although scholars tentatively suggest that the intended wood is
+Gvina cheese is a hapax legomenon of Biblical Hebrew found only in Job The word has become extremely common in modern Hebrew
+Zechuchith is a hapax legomenon of Biblical Hebrew found only in Job The word derives from the root meaning and refers to glass or crystal In Modern Hebrew it is used for glass
+Lilith occurs once in the Hebrew Bible in Isaiah which describes the desolation of Edom It is translated several ways
+Irish example
+chomneibi an adjective of unknown meaning describing a lath only appears in Triads of Ireland
+Italian examples
+Ramogna is mentioned only once in Italian literature specifically in Dante's Divina Commedia Purgatorio XI
+The verb attuia appears once in the Commedia Purgatorio XXXIII The meaning is contested but usually interpreted as darkens or impedes Some manuscripts give the alternative hapax accuia
+Trasumanar is another hapax legomenon mentioned in the Commedia Paradiso I translated as Passing beyond the human by Mandelbaum
+Ultrafilosofia which means beyond the philosophy appears in Leopardi's Zibaldone Zibaldone June
+Latin examples
+Deproeliantis a participle of the word deproelior which means to fight fiercely or to struggle violently appears only in line of Horace's Ode
+Mactatu singular ablative of mactatus meaning because of the killing It occurs only in De rerum natura by Lucretius
+Mnemosynus presumably meaning a keepsake or appears only in Poem of Catullus's Carmina
+Scortillum a diminutive form meaning little prostitute occurs only in Poem of Catullus's Carmina line
+Terricrepo an adjective apparently referring to a thunderous oratory method occurs only in Book of Augustine's Confessions
+Romanitas a noun signifying Romanism or the Roman way or the Roman manner appears only in Tertullian's de
+Arepo is a proper name only found in the Sator square It is derived by spelling opera backwards
+Eoigena an adjective referred to the sun and signifiyng born in the appears only in an epigraph found in Castellammare di Stabia the ancient Stabiae
+Slavic examples
+Vytol is a hapax legomenon of the known corpus of the Medieval Russian birch bark manuscripts The word occurs in inscription no from Novgorod dated ca in the context vytol has been caught According to Andrey Zaliznyak the word does not occur anywhere else and its meaning is not Various interpretations such as a personal name or the social status of a person have been
+Spanish examples
+Atafea is a hapax legomenon appearing in a proverb reported by Blasco de Garay in the century uno muere de atafea y otro la desea The meaning of the word was not known and was initially interpreted to mean satiety Modern etymologists link it to the arab term which refers to a stew of onion and
+Esi believed to derive from the latin conjunction etsi appears only once in de Luna's Virtuosas e claras mugeres
+In popular culture
+The filmmaker Hollis Frampton made a series of seven films from to titled Hapax Legomena I Nostalgia to Hapax Legomena VII Special
+Hapax legomenon as a term became briefly prominent in Britain following the University Challenge Final after videos went viral of Gonville and Caius student Ted Loveday swiftly giving it as a correct answer when presenter Jeremy Paxman had only managed to ask Meaning said only once' what Greek term denotes a
+The word quizzaciously was cited by Vsauce host Michael Stevens in as an example of a hapax legomenon with Google only returning one search result for the word at the time despite being included in the Oxford English The term briefly became an internet meme and now returns thousands of Google search results
+In videogame NetHack HAPAX LEGOMENON is one of the possible randomized texts of a still unidentified type of magic scroll Once read the scroll casts its magic effect and then vanishes a thing said once but possibly becoming henceforth identified scroll of enchant armor scroll of teleportation etc for that
+Hapax Legomenon is the name of a wizard friend of Heden in the novel by Matt Colville the second book in his Ratcatchers series

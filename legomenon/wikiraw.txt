@@ -1,0 +1,149 @@
+Hapax legomenon
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+"Hapax legomena" redirects here. For the film series, see Hapax Legomena.
+
+Rank-frequency plot for words in the novel Moby-Dick. About 44% of the distinct set of words in this novel, such as "matrimonial", occur only once, and so are hapax legomena (red). About 17%, such as "dexterity", appear twice (so-called dis legomena, in blue). Zipf's law predicts that the words in this plot should approximate a straight line with slope -1.
+In corpus linguistics, a hapax legomenon (/ˈhæpəks lɪˈɡɒmɪnɒn/ also /ˈhæpæks/ or /ˈheɪpæks/;[1][2] pl. hapax legomena; sometimes abbreviated to hapax, plural hapaxes) is a word or an expression that occurs only once within a context: either in the written record of an entire language, in the works of an author, or in a single text. The term is sometimes incorrectly used to describe a word that occurs in just one of an author's works but more than once in that particular work. Hapax legomenon is a transliteration of Greek ἅπαξ λεγόμενον, meaning "being said once".[3]
+
+The related terms dis legomenon, tris legomenon, and tetrakis legomenon respectively (/ˈdɪs/, /ˈtrɪs/, /ˈtɛtrəkɪs/) refer to double, triple, or quadruple occurrences, but are far less commonly used.
+
+Hapax legomena are quite common, as predicted by Zipf's law,[4] which states that the frequency of any word in a corpus is inversely proportional to its rank in the frequency table. For large corpora, about 40% to 60% of the words are hapax legomena, and another 10% to 15% are dis legomena.[5] Thus, in the Brown Corpus of American English, about half of the 50,000 distinct words are hapax legomena within that corpus.[6]
+
+Hapax legomenon refers to the appearance of a word or an expression in a body of text, not to either its origin or its prevalence in speech. It thus differs from a nonce word, which may never be recorded, may find currency and may be widely recorded, or may appear several times in the work which coins it, and so on.
+
+
+Contents
+1	Significance
+2	Computer science
+3	Examples
+3.1	Arabic examples
+3.2	Chinese and Japanese characters
+3.3	English examples
+3.4	German examples
+3.5	Ancient Greek examples
+3.6	Hebrew examples
+3.7	Irish example
+3.8	Italian examples
+3.9	Latin examples
+3.10	Slavic examples
+3.11	Spanish examples
+4	In popular culture
+5	See also
+6	References
+7	External links
+Significance
+Workman'sPaulineHapaxes.svg
+Workman'sShakespearePlays.svg
+Hapax legomena in ancient texts are usually difficult to decipher, since it is easier to infer meaning from multiple contexts than from just one. For example, many of the remaining undeciphered Mayan glyphs are hapax legomena, and Biblical (particularly Hebrew; see § Hebrew examples) hapax legomena sometimes pose problems in translation. Hapax legomena also pose challenges in natural language processing.[7]
+
+Some scholars consider Hapax legomena useful in determining the authorship of written works. P. N. Harrison, in The Problem of the Pastoral Epistles (1921)[8] made hapax legomena popular among Bible scholars, when he argued that there are considerably more of them in the three Pastoral Epistles than in other Pauline Epistles. He argued that the number of hapax legomena in a putative author's corpus indicates his or her vocabulary and is characteristic of the author as an individual.
+
+Harrison's theory has faded in significance due to a number of problems raised by other scholars. For example, in 1896, W. P. Workman found the following numbers of hapax legomena in each Pauline Epistle:
+
+Pauline Epistle	Hapax legomena
+Epistle to the Romans	113
+First Epistle to the Corinthians	110
+Second Epistle to the Corinthians	99
+Epistle to the Galatians	34
+Epistle to the Ephesians	43
+Epistle to the Philippians	41
+Epistle to the Colossians	38
+First Epistle to the Thessalonians	23
+Second Epistle to the Thessalonians	11
+First Epistle to Timothy	82
+Second Epistle to Timothy	53
+Epistle to Titus	33
+Epistle to Philemon	5
+
+At first glance, the last three totals (for the Pastoral Epistles) are not out of line with the others.[9] To take account of the varying length of the epistles, Workman also calculated the average number of hapax legomena per page of the Greek text, which ranged from 3.6 to 13, as summarized in the diagram on the right.[9] Although the Pastoral Epistles have more hapax legomena per page, Workman found the differences to be moderate in comparison to the variation among other Epistles. This was reinforced when Workman looked at several plays by Shakespeare, which showed similar variations (from 3.4 to 10.4 per page of Irving's one-volume edition), as summarized in the second diagram on the right.[9]
+
+Apart from author identity, there are several other factors that can explain the number of hapax legomena in a work:[10]
+
+text length: this directly affects the expected number and percentage of hapax legomena; the brevity of the Pastoral Epistles also makes any statistical analysis problematic.
+text topic: if the author writes on different subjects, of course many subject-specific words will occur only in limited contexts.
+text audience: if the author is writing to a peer rather than a student, or their spouse rather than their employer, again quite different vocabulary will appear.
+time: over the course of years, both the language and an author's knowledge and use of language will change.
+In the particular case of the Pastoral Epistles, all of these variables are quite different from those in the rest of the Pauline corpus, and hapax legomena are no longer widely accepted as strong indicators of authorship (although the authorship of the Pastorals is subject to debate on other grounds).[11]
+
+There are also subjective questions over whether two forms amount to "the same word": dog vs. dogs, clue vs. clueless, sign vs. signature; many other gray cases also arise. The Jewish Encyclopedia points out that, although there are 1,500 hapaxes in the Hebrew Bible, only about 400 are not obviously related to other attested word forms.[12]
+
+It would not be especially difficult for a forger to construct a work with any percentage of hapax legomena desired. However, it seems unlikely that forgers much before the 20th century would have conceived such a ploy, much less thought it worth the effort.[citation needed]
+
+A final difficulty with the use of hapax legomena for authorship determination is that there is considerable variation among works known to be by a single author, and disparate authors often show similar values. In other words, hapax legomena are not a reliable indicator. Authorship studies now usually use a wide range of measures to look for patterns rather than relying upon single measurements.
+
+Computer science
+In the fields of computational linguistics and natural language processing (NLP), esp. corpus linguistics and machine-learned NLP, it is common to disregard hapax legomena (and sometimes other infrequent words), as they are likely to have little value for computational techniques. This disregard has the added benefit of significantly reducing the memory use of an application, since, by Zipf's law, many words are hapax legomena.[13]
+
+Examples
+The following are some examples of hapax legomena in languages or corpora.
+
+Arabic examples
+In the Qurʾān:
+
+The proper nouns Iram (Q 89:7, Iram of the Pillars), Bābil (Q 2:102, Babylon), Bakka(t) (Q 3:96, Bakkah), Jibt (Q 4:51), Ramaḍān (Q 2:185, Ramadan), ar-Rūm (Q 30:2, Byzantine Empire), Tasnīm (Q 83:27), Qurayš (Q 106:1, Quraysh), Majūs (Q 22:17, Magian/Zoroastrian), Mārūt (Q 2:102, Harut and Marut), Makka(t) (Q 48:24, Mecca), Nasr (Q 71:23), (Ḏū) an-Nūn (Q 21:87) and Hārūt (Q 2:102, Harut and Marut) occur only once.[14]
+zanjabīl (زَنْجَبِيل – ginger) is a Qurʾānic hapax (Q 76:17).
+The epitheton ornans aṣ-ṣamad (الصَّمَد – the One besought) is a Qurʾānic hapax (Q 112:2).
+ṭūd (طُوْد - mountain) is a Qurʾānic hapax (Q 26:63).
+Chinese and Japanese characters
+See also: Chinese characters § Rare and complex characters
+Classical Chinese and Japanese literature contains many Chinese characters that feature only once in the corpus, and their meaning and pronunciation has often been lost. Known in Japanese as kogo (孤語), literally "lonely characters", these can be considered a type of hapax legomenon.[15] For example, the Classic of Poetry (c. 1000 BC) uses the character 篪 exactly once in the verse "伯氏吹埙，仲氏吹篪", and it was only through the discovery of a description by Guo Pu (276–324 AD) that the character could be associated with a specific type of ancient flute.
+
+English examples
+
+The word "honorificabilitudinitatibus" as found in the first edition of William Shakespeare's play Love's Labour's Lost
+Flother, as a synonym for snowflake, is a hapax legomenon of written English found in a manuscript entitled The XI Pains of Hell (circa 1275).[16][17]
+Hebenon, a poison referred to in Shakespeare's 'Hamlet' only once.
+Honorificabilitudinitatibus is a hapax legomenon of Shakespeare's works.
+Indexy, in Bram Stoker's Dracula, used as an adjective to describe a situational state with no other further use in the language "'If that man had been an ordinary lunatic I would have taken my chance of trusting him; but he seems so mixed up with the Count in an indexy kind of way that I am afraid of doing anything wrong by helping his fads."[18]
+Manticratic, meaning "of the rule by the Prophet's family or clan", was apparently invented by T. E. Lawrence and appears once in Seven Pillars of Wisdom.[18]
+Nortelrye, a word for "education", occurs only once in Chaucer.
+Sassigassity, perhaps with the meaning of "audacity", occurs only once in Dickens's short story "A Christmas Tree".
+Slæpwerigne, "sleep-weary", occurs exactly once in the Old English corpus, in the Exeter Book. There is debate over whether it means "weary with sleep" or "weary for sleep".
+German examples
+
+Muspilli line 57: "dar nimac denne mak andremo helfan uora demo muspille" (Bavarian State Library Clm 14098, f. 121r)
+The name of the 9th-century poem Muspilli is a back-formation from "muspille", Old High German hapax legomenon of unclear meaning only found in this text (see Muspilli#Etymology for discussion).
+Ancient Greek examples
+According to classical scholar Clyde Pharr, "the Iliad has 1097 hapax legomena, while the Odyssey has 868".[19] Others have defined the term differently, however, and count as few as 303 in the Iliad and 191 in the Odyssey.[20]
+panaōrios (παναώριος), ancient Greek for "very untimely", is one of many words that occur only once in the Iliad.[21]
+The Greek New Testament contains 686 local hapax legomena, which are sometimes called "New Testament hapaxes".[22] 62 of these occur in 1 Peter and 54 occur in 2 Peter.[23]
+Epiousios, translated into English as ″daily″ in the Lord's Prayer in Matthew 6:11 and Luke 11:3, occurs nowhere else in all of the known ancient Greek literature.
+The word aphedrōn (ἀφεδρών) "latrine" in the Greek New Testament occurs only twice, in Matthew 15:17 and Mark 7:19, but since it is widely considered that the writer of the Gospel of Matthew used the Gospel of Mark as a source, it may be regarded as a hapax legomenon. It was mistakenly translated as "bowel", until an inscription from the Lex de astynomis Pergamenorum ("Law of the town clerks of Pergamon") confirmed it meant "latrine".[24][25]
+Hebrew examples
+The number of distinct hapax legomena in the Hebrew Bible is 1,480 (out of a total of 8,679 distinct words used).[26]: 112  However, due to Hebrew roots, suffixes and prefixes, only 400 are "true" hapax legomena.[12] A full list can be seen at the Jewish Encyclopedia entry for "Hapax Legomena".[12]
+
+Some examples include:
+
+Akut (אקוט – fought), only appears once in the Hebrew Bible, in Psalm 95:10.
+Atzei Gopher (עֲצֵי-גֹפֶר – Gopher wood) is mentioned once in the Bible, in Genesis 6:14, in the instruction to make Noah's ark "of gopher wood". Because of its single appearance, its literal meaning is lost. Gopher is simply a transliteration, although scholars tentatively suggest that the intended wood is cypress.[27]
+Gvina (גבינה – cheese) is a hapax legomenon of Biblical Hebrew, found only in Job 10:10. The word has become extremely common in modern Hebrew.
+Zechuchith (זכוכית) is a hapax legomenon of Biblical Hebrew, found only in Job 28:17. The word derives from the root זכה z-ch-h, meaning clear/transparent and refers to glass or crystal. In Modern Hebrew, it is used for "glass".
+Lilith (לילית) occurs once in the Hebrew Bible, in Isaiah 34:14, which describes the desolation of Edom. It is translated several ways.
+Irish example
+chomneibi, an adjective of unknown meaning describing a lath, only appears in Triads of Ireland #169.[28]
+Italian examples
+Ramogna is mentioned only once in Italian literature, specifically in Dante's Divina Commedia (Purgatorio XI, 25).
+The verb attuia appears once in the Commedia (Purgatorio XXXIII, 48). The meaning is contested but usually interpreted as "darkens" or "impedes". Some manuscripts give the alternative hapax accuia instead.[29]
+Trasumanar is another hapax legomenon mentioned in the Commedia (Paradiso I, 70, translated as "Passing beyond the human" by Mandelbaum).
+Ultrafilosofia, which means "beyond the philosophy" appears in Leopardi's Zibaldone (Zibaldone 114–115 – June, 7th 1820).
+Latin examples
+Deproeliantis, a participle of the word deproelior, which means "to fight fiercely" or "to struggle violently", appears only in line 11 of Horace's Ode 1.9.
+Mactatu, singular ablative of mactatus, meaning "because of the killing". It occurs only in De rerum natura by Lucretius.
+Mnemosynus, presumably meaning a keepsake or aide-memoire, appears only in Poem 12 of Catullus's Carmina.
+Scortillum, a diminutive form meaning "little prostitute", occurs only in Poem 10 of Catullus's Carmina, line 3.
+Terricrepo, an adjective apparently referring to a thunderous oratory method, occurs only in Book 8 of Augustine's Confessions.
+Romanitas, a noun signifying "Romanism" or "the Roman way" or "the Roman manner", appears only in Tertullian's de Pallio.[30][31]
+Arepo is a proper name only found in the Sator square. It is derived by spelling opera backwards.
+Eoigena, an adjective referred to the sun and signifiyng “one born in the east”,[32][33] appears only in an epigraph found in Castellammare di Stabia (the ancient Stabiae).
+Slavic examples
+Vytol (вытол) is a hapax legomenon of the known corpus of the Medieval Russian birch bark manuscripts. The word occurs in inscription no. 600 from Novgorod, dated ca. 1220–1240, in the context "[the] vytol has been caught" (вытоло изловили). According to Andrey Zaliznyak, the word does not occur anywhere else, and its meaning is not known.[34] Various interpretations, such as a personal name or the social status of a person, have been proposed.[35]
+Spanish examples
+Atafea is a hapax legomenon appearing in a proverb reported by Blasco de Garay in the 16th century ("uno muere de atafea y otro la desea"). The meaning of the word was not known, and was initially interpreted to mean satiety. Modern etymologists link it to the north-african arab term tafaya/attatfíha, which refers to a stew of onion and coriander.[36]
+Esi, believed to derive from the latin conjunction etsi, appears only once in Álvaro de Luna's Virtuosas e claras mugeres (1446).[37]
+In popular culture
+The avant-garde filmmaker Hollis Frampton made a series of seven films from 1971 to 1972 titled Hapax Legomena I: Nostalgia to Hapax Legomena VII: Special Effects.[38]
+Hapax legomenon as a term became briefly prominent in Britain following the 2014–15 University Challenge Final, after videos went viral of Gonville and Caius student Ted Loveday swiftly giving it as a correct answer when presenter Jeremy Paxman had only managed to ask "Meaning 'said only once', what two-word Greek term denotes a word...".[39][40][41][42]
+The word quizzaciously was cited by Vsauce host Michael Stevens in 2015 as an example of a hapax legomenon, with Google only returning one search result for the word at the time despite being included in the Oxford English Dictionary.[43] The term briefly became an internet meme and now returns thousands of Google search results.
+In videogame NetHack, "HAPAX LEGOMENON" is one of the possible randomized texts of a still unidentified type of magic scroll. Once read, the scroll casts its magic effect and then vanishes ("a thing said once") but possibly becoming henceforth identified (e.g. scroll of enchant armor, scroll of teleportation, etc.) for that gameplay.[44]
+"Hapax Legomenon" is the name of a wizard friend of Heden in the novel "Thief"[45] by Matt Colville, the second book in his Ratcatchers series.
